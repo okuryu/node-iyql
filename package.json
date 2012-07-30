@@ -1,0 +1,32 @@
+{
+  "name": "iyql",
+  "version": "0.1.0",
+  "description": "Interactive YQL",
+  "keywords": [
+    "repl",
+    "yql"
+  ],
+  "homepage": "https://github.com/okuryu/node-iyql",
+  "bugs": {
+    "url": "https://github.com/okuryu/node-iyql/issues"
+  },
+  "author": {
+    "name": "Ryuichi Okumura",
+    "email": "okuryu@okuryu.com",
+    "url": "http://www.okuryu.com/"
+  },
+  "bin": {
+    "iyql": "./lib/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okuryu/node-iyql.git"
+  },
+  "dependencies": {
+    "nopt": "*",
+    "request": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
