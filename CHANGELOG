@@ -1,3 +1,7 @@
+2013-04-29, Version 0.3.0
+
+* #6: Support SSL YQL endpoint
+
 2012-08-06, Version 0.2.0
 
 * Support Node.js v0.6.x
