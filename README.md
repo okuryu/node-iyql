@@ -20,6 +20,7 @@ Options:
   -p, --endpoint set YQL endpoint URL. default: http://query.yahooapis.com/v1/public/yql
   -e, --env      set YQL env URL
   -h, --help     print help
+  -s, --ssl      use HTTPS endpoint
   -v, --version  print version
 ```
 
