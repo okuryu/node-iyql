@@ -15,6 +15,10 @@
     "email": "okuryu@okuryu.com",
     "url": "http://www.okuryu.com/"
   },
+  "license": {
+    "type": "BSD",
+    "url": "https://github.com/okuryu/node-iyql/blob/master/LICENSE"
+  },
   "bin": {
     "iyql": "./lib/cli.js"
   },
