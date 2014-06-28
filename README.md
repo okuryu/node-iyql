@@ -1,5 +1,7 @@
 # iYQL
 
+[![NPM version](https://badge.fury.io/js/iyql.svg)](http://badge.fury.io/js/iyql)
+
 Interactive YQL build with Node.js.
 
 Original design is [iYQL](https://github.com/dgvncsz0f/iyql) by Diego Souza.
