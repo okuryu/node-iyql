@@ -1,6 +1,7 @@
 # iYQL
 
 [![NPM version](https://badge.fury.io/js/iyql.svg)](http://badge.fury.io/js/iyql)
+[![Dependency Status](https://gemnasium.com/okuryu/node-iyql.svg)](https://gemnasium.com/okuryu/node-iyql)
 
 Interactive YQL build with Node.js.
 
