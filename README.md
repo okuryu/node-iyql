@@ -181,7 +181,7 @@ iyql> select * from geo.places where text="hikarigaoka" | truncate(count=1)
 
 ## Author
 
-* [Ryuichi Okumura](http://www.okuryu.com/)
+* Ryuichi Okumura ([@okuryu](https://github.com/okuryu))
 
 ## LICENSE
 
