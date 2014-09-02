@@ -183,6 +183,6 @@ iyql> select * from geo.places where text="hikarigaoka" | truncate(count=1)
 
 * Ryuichi Okumura ([@okuryu](https://github.com/okuryu))
 
-## LICENSE
+## License
 
-New BSD License.
+This module is licensed under the [BSD license](LICENSE.md).

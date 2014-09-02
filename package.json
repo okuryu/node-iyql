@@ -13,7 +13,7 @@
   "author": "Ryuichi Okumura <okuryu@okuryu.com>",
   "license": {
     "type": "BSD",
-    "url": "https://github.com/okuryu/node-iyql/blob/master/LICENSE"
+    "url": "https://github.com/okuryu/node-iyql/blob/master/LICENSE.md"
   },
   "bin": {
     "iyql": "./lib/cli.js"
