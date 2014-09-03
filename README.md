@@ -7,13 +7,13 @@ Interactive YQL build with Node.js.
 
 Original design is [iYQL](https://github.com/dgvncsz0f/iyql) by Diego Souza.
 
-## INSTALL
+## Install
 
 ```
 $ npm install -g iyql
 ```
 
-## USAGE
+## Usage
 
 ```
 $ iyql -h
