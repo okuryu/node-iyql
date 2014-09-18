@@ -23,7 +23,7 @@
     "url": "git@github.com:okuryu/node-iyql.git"
   },
   "dependencies": {
-    "nopt": "^3.0.0",
+    "nopt": "^3.0.1",
     "request": "^2.42.0"
   }
 }
