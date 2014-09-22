@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "nopt": "^3.0.1",
-    "request": "^2.42.0"
+    "request": "^2.44.0"
   }
 }
