@@ -186,3 +186,5 @@ iyql> select * from geo.places where text="hikarigaoka" | truncate(count=1)
 ## License
 
 This module is licensed under the [BSD license](LICENSE.md).
+
+The [request](https://github.com/mikeal/request) module is available under the Apache License 2.0.
