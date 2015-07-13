@@ -11,10 +11,7 @@
     "url": "https://github.com/okuryu/node-iyql/issues"
   },
   "author": "Ryuichi Okumura <okuryu@okuryu.com>",
-  "license": {
-    "type": "BSD",
-    "url": "https://github.com/okuryu/node-iyql/blob/master/LICENSE.md"
-  },
+  "license": "BSD-3-Clause",
   "bin": {
     "iyql": "./lib/cli.js"
   },
