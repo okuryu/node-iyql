@@ -10,14 +10,17 @@
   "bugs": {
     "url": "https://github.com/okuryu/node-iyql/issues"
   },
-  "author": "Ryuichi Okumura <okuryu@okuryu.com>",
   "license": "BSD-3-Clause",
+  "author": "Ryuichi Okumura <okuryu@okuryu.com>",
   "bin": {
     "iyql": "./lib/cli.js"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:okuryu/node-iyql.git"
+  },
+  "scripts": {
+    "flatten": "package-json-flatten"
   },
   "dependencies": {
     "nopt": "^3.0.1",
