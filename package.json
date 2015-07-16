@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "nopt": "^3.0.1",
-    "request": "^2.45.0"
+    "request": "^2.58.0"
   },
   "devDependencies": {
     "package-json-flatten": "^0.4.0"
