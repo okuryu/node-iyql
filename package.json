@@ -23,7 +23,7 @@
     "flatten": "package-json-flatten"
   },
   "dependencies": {
-    "nopt": "^3.0.3",
+    "nopt": "^3.0.6",
     "request": "^2.58.0"
   },
   "devDependencies": {
